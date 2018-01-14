@@ -29,8 +29,3 @@ function currentLine(katzDeliLine){
     return ('The line is currently empty.')
   }
 }
-
-// iterate through katzDeliLine[i]
-
-1. katzDeliLine[0]
-2. katzDeliLine[1]
