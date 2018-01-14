@@ -20,7 +20,7 @@ function currentLine(katzDeliLine){
   let i=0; i<katzDeliLine.length 
   
   return (`The line is currently: 
-  '${katzDeliLine.indexOf}+1'. [i]`)
+  '${i+1}'. katzDeliLine[i]`)
   
   i++
   
