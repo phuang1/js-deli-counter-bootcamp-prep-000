@@ -30,3 +30,6 @@ function currentLine(katzDeliLine){
 }
 
 // iterate through katzDeliLine[i]
+
+1. katzDeliLine[0]
+2. katzDeliLine[1]
