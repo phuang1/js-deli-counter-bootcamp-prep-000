@@ -19,9 +19,9 @@ function nowServing (katzDeliLine){
 function currentLine(katzDeliLine){
   var numbersNames = []
   
-  for (let i=0; i<katzDeliLine.length) { 
+  for (i=0, i<katzDeliLine.length,i++) { 
   numbersNames.push(`${i+1}. ${i}`)
-  i++}
+  }
   
   return (`The line is currently: 
   numbersNames.join(,)`)
