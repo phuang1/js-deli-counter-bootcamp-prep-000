@@ -22,7 +22,7 @@ function currentLine(katzDeliLine){
     
   var numbersNames = []
   
-  for (i=0; i<katzDeliLine.length; i++) { 
+  for (let i=0; i<katzDeliLine.length; i++) { 
   numbersNames.push(`${i+1}. ${katzDeliLine[i]}`)
   
   return `The line is currently: 
