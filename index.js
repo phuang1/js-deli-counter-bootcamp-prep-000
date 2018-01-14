@@ -28,6 +28,6 @@ function currentLine(katzDeliLine){
   }
   
   return `The line is currently: 
-  ${numbersNames.join}`}
+  ${numbersNames.join(', ')}`
   
 }
